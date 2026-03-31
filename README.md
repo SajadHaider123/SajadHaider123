@@ -1,16 +1,25 @@
-## Hi there 👋
+# Assalam-o-Alaikum, Main Sajad Haider hun! 👋
 
-<!--
-**SajadHaider123/SajadHaider123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Mera Professional Safar: Typewriter Effect
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=i+there;Im+Sajad+Haider;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Superpowers (Ammar ki Profile ki tarah fancy table)
+
+| Data Analysis | Business Intelligence | Data Engineering |
+| :--- | :--- | :--- |
+| 🐍 Python | 📊 Power BI | 🐘 PostgreSQL |
+| 🐼 Pandas | 📑 Excel | 🐳 Docker |
+| 🔢 NumPy | 📈 Looker Studio | 🐧 Linux |
+
+---
+
+### 📬 Mujh se rabta karein:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](APNA_LINKEDIN_LINK_YAHAN_DALEIN) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:APNA_EMAIL_YAHAN_DALEIN) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](APNA_GITHUB_LINK_YAHAN_DALEIN)
