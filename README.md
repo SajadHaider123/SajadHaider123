@@ -1,7 +1,3 @@
-# Assalam-o-Alaikum, Main Sajad Haider hun! 👋
-
-## 🚀 Mera Professional Safar: Typewriter Effect
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=i+there;Im+Sajad+Haider;Full+Stack+Developer" alt="Typing SVG" />
